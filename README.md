@@ -1,1 +1,1 @@
-# Bayesian-Unsupervised-Topic-Segmentation code is here.
+# Bayesian-Topic-Segmentation code is here.
